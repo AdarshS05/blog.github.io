@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreeniche- a simple comfort blog</title>
+    <link>https://github.com/AdarshS05/blog.github.io.git/</link>
+    <description>Recent content on Sreeniche- a simple comfort blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/AdarshS05/blog.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://github.com/AdarshS05/blog.github.io.git/posts/my_first_post/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AdarshS05/blog.github.io.git/posts/my_first_post/</guid>
+      <description>Welcome to my blog! I love sharing some of the craziest and funniest adventure stories I&amp;rsquo;ve experienced so far. So let&amp;rsquo;s get started!
+Imagine you went on a holiday! It would be amazing, right? But what if, on the last day of your return journey, you realized that your passport was lost with only hours left to board the flight back. What would you do? Well, this is just a hypothetical question, but what if it really happened?</description>
+    </item>
+    
+  </channel>
+</rss>
